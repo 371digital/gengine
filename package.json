@@ -1,0 +1,12 @@
+{
+  "name": "gengine",
+  "version": "1.0.0",
+  "description": "Gengine Framework",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "371Digital",
+  "license": "ISC"
+}
