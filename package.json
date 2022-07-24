@@ -1,5 +1,5 @@
 {
-  "name": "gengine",
+  "name": "@371digital/gengine",
   "version": "1.0.0",
   "description": "Gengine Framework",
   "main": "index.js",
